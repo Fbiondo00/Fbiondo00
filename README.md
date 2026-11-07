@@ -150,7 +150,7 @@
     <tr>
       <td width="50%" valign="top" align="center">
         <br/>
-        <a href="https://github.com/Fbiondo00/fontis">
+        <a href="https://github.com/CraftaleAgency/fontis">
           <img src="https://img.shields.io/badge/📚_FONTIS-4CC9F0?style=for-the-badge&labelColor=0D1117&color=7209B7" alt="fontis" />
         </a>
         <br/><br/>
@@ -160,7 +160,7 @@
         <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <br/><br/>
-        <a href="https://github.com/Fbiondo00/fontis">→ explore</a>
+        <a href="https://github.com/CraftaleAgency/fontis">→ explore</a>
         <br/><br/>
       </td>
       <td width="50%" valign="top" align="center">
